@@ -7,6 +7,6 @@ My first Python calculator project.
 - Subtraction
 - Multiplication
 - Division
-- Modulo
+  
 
 Made with Python 🐍
